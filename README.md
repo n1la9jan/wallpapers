@@ -39,3 +39,9 @@ Scraped from around the internet to fit each colourschemes
 <a href="./solarized/cat_green_water_body.png"><img src="./solarized/cat_green_water_body.png" ></a>
 <br/>
 [See full collection](./solarized/README.md)
+
+## Nord
+
+<a href="./nord/seoul_pixel_art.jpg"><img src="./nord/seoul_pixel_art.jpg" ></a>
+<br/>
+[See full collection](./nord/README.md)
