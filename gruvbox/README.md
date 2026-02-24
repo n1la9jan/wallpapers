@@ -6,5 +6,5 @@
 <a href="./r25x6m.png"><img src="./r25x6m.png"></a>
 <a href="./girl_leaning_on_railing_night.png"><img src="./girl_leaning_on_railing_night.png"></a>
 <a href="./girl_side_view_lvl374.png"><img src="./girl_side_view_lvl374.png"></a>
-<a href="./girl_smoking_cigarette_staircase.png"><img src="./girl_smoking_cigarette_staircase.pngl"></a>
+<a href="./girl_smoking_cigarette_staircase.png"><img src="./girl_smoking_cigarette_staircase.png"></a>
 <a href="./manga_boy_looking_outside_tokyo.png"><img src="./manga_boy_looking_outside_tokyo.png"></a>
