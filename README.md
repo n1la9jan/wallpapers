@@ -18,13 +18,19 @@ Scraped from around the internet to fit each colourschemes
 
 ## Gruvbox
 
-<a href="./gruvbox/911_GT3RS.png"><img alt="Porsche 911 GT3RS" src="./gruvbox/911_GT3RS.png"></a>
+<a href="./gruvbox/girl_leaning_on_railing_night.png"><img src="./gruvbox/girl_leaning_on_railing_night.png"></a>
 <br/>
 [See full collection](./gruvbox/README.md)
 
+## Catppuccin
+
+<a href="./catppuccin/boy_windmill_sunset_clouds_rusty.png"><img src="./catppuccin/boy_windmill_sunset_clouds_rusty.png"></a>
+<br/>
+[See full collection](./catppuccin/README.md)
+
 ## Tokyonight
 
-<a href="./tokyonight/tokyo_neon_night.png"><img alt="Anime couple together" src="./tokyonight/tokyo_neon_night.png"></a>
+<a href="./tokyonight/woman_standing_on_bridege_futuristic.png"><img src="./tokyonight/woman_standing_on_bridege_futuristic.png"></a>
 <br/>
 [See full collection](./tokyonight/README.md)
 
@@ -45,3 +51,12 @@ Scraped from around the internet to fit each colourschemes
 <a href="./nord/seoul_pixel_art.jpg"><img src="./nord/seoul_pixel_art.jpg" ></a>
 <br/>
 [See full collection](./nord/README.md)
+
+# Referrences
+
+These are the places I scraped my wallpapers from
+
+- <https://haowallpaper.com/>
+- <https://wallhaven.cc/>
+
+I do not own these images. All credits belong to the respective artists.

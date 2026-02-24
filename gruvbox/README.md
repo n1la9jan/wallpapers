@@ -4,3 +4,7 @@
 <a href="./couple_train_head_on_shoulder.png"><img src="./couple_train_head_on_shoulder.png"></a>
 <a href="./cyberpunk_pixel_art.png"><img src="./cyberpunk_pixel_art.png"></a>
 <a href="./r25x6m.png"><img src="./r25x6m.png"></a>
+<a href="./girl_leaning_on_railing_night.png"><img src="./girl_leaning_on_railing_night.png"></a>
+<a href="./girl_side_view_lvl374.png"><img src="./girl_side_view_lvl374.png"></a>
+<a href="./girl_smoking_cigarette_staircase.png"><img src="./girl_smoking_cigarette_staircase.pngl"></a>
+<a href="./manga_boy_looking_outside_tokyo.png"><img src="./manga_boy_looking_outside_tokyo.png"></a>
