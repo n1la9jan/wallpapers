@@ -18,7 +18,7 @@ Scraped from around the internet to fit each colourschemes
 
 ## Gruvbox
 
-<a href="./gruvbox/girl_leaning_on_railing_night.png"><img src="./gruvbox/girl_leaning_on_railing_night.png"></a>
+<a href="./gruvbox/asa_mitaka_framed_sea_view.png"><img src="./gruvbox/asa_mitaka_framed_sea_view.png"></a>
 <br/>
 [See full collection](./gruvbox/README.md)
 
