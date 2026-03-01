@@ -7,3 +7,4 @@
 <a href="./girl_under_sky_digital_painting.png"><img src="./girl_under_sky_digital_painting.png"></a>
 <a href="./marathon_space_sky_cgi.png"><img src="./marathon_space_sky_cgi.png"></a>
 <a href="./woman_standing_on_bridege_futuristic.png"><img src="./woman_standing_on_bridege_futuristic.png"></a>
+<a href="./boat_on_sea_with_clear_cloudy_sky.png"><img src="./boat_on_sea_with_clear_cloudy_sky.png"></a>

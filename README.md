@@ -52,6 +52,12 @@ Scraped from around the internet to fit each colourschemes
 <br/>
 [See full collection](./nord/README.md)
 
+## Everforest
+
+<a href="./everforest/a_tree_and_a_rock.png"><img src="./everforest/a_tree_and_a_rock.png"></a>
+<br/>
+[See full collection](./everforest/README.md)
+
 # Referrences
 
 These are the places I scraped my wallpapers from

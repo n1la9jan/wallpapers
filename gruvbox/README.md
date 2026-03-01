@@ -8,3 +8,7 @@
 <a href="./girl_side_view_lvl374.png"><img src="./girl_side_view_lvl374.png"></a>
 <a href="./girl_smoking_cigarette_staircase.png"><img src="./girl_smoking_cigarette_staircase.png"></a>
 <a href="./manga_boy_looking_outside_tokyo.png"><img src="./manga_boy_looking_outside_tokyo.png"></a>
+<a href="./asa_mitaka_framed_sea_view.png"><img src="./asa_mitaka_framed_sea_view.png"></a>
+<a href="./makima_standing_in_city_streets.png"><img src="./makima_standing_in_city_streets.png"></a>
+<a href="./reze_denji_classroom.png"><img src="./reze_denji_classroom.png"></a>
+<a href="./warrior_standing_in_rocks_art.png"><img src="./warrior_standing_in_rocks_art.png"></a>

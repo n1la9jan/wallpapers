@@ -6,3 +6,4 @@
 <a href="./kanojo_pink_bg.png"><img src="./kanojo_pink_bg.png"></a>
 <a href="./pixel_art_floating_island.png"><img src="./pixel_art_floating_island.png"></a>
 <a href="./pixel_art_photoframe.png"><img src="./pixel_art_photoframe.png"></a>
+<a href="./makima_poster.png"><img src="./makima_poster.png"></a>
