@@ -36,7 +36,7 @@ Scraped from around the internet to fit each colourschemes
 
 ## RosePine
 
-<a href="./rose-pine/rose_pine_couple_pixel_art.png"><img src="./rose-pine/rose_pine_couple_pixel_art.png"></a>
+<a href="./rose-pine/galactic_planet_purple.png"><img src="./rose-pine/galactic_planet_purple.png"></a>
 <br/>
 [See full collection](./rose-pine/README.md)
 
