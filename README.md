@@ -58,6 +58,12 @@ Scraped from around the internet to fit each colourschemes
 <br/>
 [See full collection](./everforest/README.md)
 
+## Ascii Art
+
+<a href="./asciiart/ascii_art_woman_face_black.png"><img src="./asciiart/ascii_art_woman_face_black.png"></a>
+<br/>
+[See full collection](./asciiart/README.md)
+
 # Referrences
 
 These are the places I scraped my wallpapers from
