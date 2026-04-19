@@ -4,6 +4,18 @@ Scraped from around the internet to fit each colourschemes
 
 # Showcases
 
+## Frieren
+
+<a href="./frieren/freiren_with_want_standing_in_nature_sunset.png"><img alt="frieren_with_wand" src="./frieren/freiren_with_want_standing_in_nature_sunset.png"></a>
+<br/>
+[See full collection](./frieren/README.md)
+
+## Hatsune Miku
+
+<a href="./hatsune/hatsune_miku_blue_long_hair_window.png"><img alt="hatsune_miku_long_hair" src="./hatsune/hatsune_miku_blue_long_hair_window.png"></a>
+<br/>
+[See full collection](./frieren/README.md)
+
 ## Kanagawa
 
 <a href="./kanagawa/reze_chainsaw_man.png"><img alt="reze and denji" src="./kanagawa/reze_chainsaw_man.png"></a>
